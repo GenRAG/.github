@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/hébergé-en%20France-34D3A9">
 </p>
 
-**GenRAG transforme les documents de votre entreprise en un assistant IA qui répond à votre équipe, sources à l'appui. Sans une ligne de code.**
+**GenRAG (pour *Generate RAG*) transforme les documents de votre entreprise en un assistant IA qui répond à votre équipe, sources à l'appui. Sans une ligne de code.**
 
 ### Comment ça marche
 1. **Importez vos documents** : PDF, Word, pages web, ou directement depuis Google Drive, SharePoint, OneDrive et Notion.
