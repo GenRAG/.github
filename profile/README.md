@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="banner-light.png#gh-light-mode-only" alt="GenRAG — Vos documents éparpillés, enfin connectés." width="100%">
-  <img src="banner-dark.png#gh-dark-mode-only" alt="GenRAG — Vos documents éparpillés, enfin connectés." width="100%">
-</p>
+<a href="https://www.genrag.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <img src="banner-light.png" alt="GenRAG — Vos documents éparpillés, enfin connectés." width="100%">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://www.genrag.app"><img src="https://img.shields.io/badge/site-genrag.app-12B98C"></a>
